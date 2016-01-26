@@ -1,0 +1,9 @@
+Package: com.leave.mathjaxzhihu
+Name: MathjaxZhihu
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Use Mathjax to render equations in Zhihu app.
+Maintainer: GAO
+Author: GAO
+Section: Tweaks
